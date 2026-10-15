@@ -4,8 +4,7 @@
 
 ---
 
-## 📋 作業規格與參數 (Homework Specifications)
-* **課程作業**：Wireless Communications Homework I (Dr. Tsai, NTHU)
+## 📋 系統規格與參數 (Homework Specifications)
 * **核心主題**：Erlang-B 話務公式、Trunking 效率與頻譜效率分析
 * **系統參數**：
   * 頻道數範圍 (m)：1 ~ 20 以及 200 ~ 220
