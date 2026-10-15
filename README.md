@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 系統規格與參數 (Homework Specifications)
+## 📋 系統規格與模擬參數 (System Specifications & Parameters)
 * **核心主題**：Erlang-B 話務公式、Trunking 效率與頻譜效率分析
 * **系統參數**：
   * 頻道數範圍 (m)：1 ~ 20 以及 200 ~ 220
